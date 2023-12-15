@@ -1,0 +1,2 @@
+# Course_Projects
+This repository contains projects I completed in a course at Temple University called Observing and Modeling Climate Change. This course taught us to utilize Python programming language, GitHub, command line and Jupyter Notebooks to to analyze and visualize observational datasets and climate model outputs. These projects encompass the skills I learned and utilized to complete these analyses of global climate change.
